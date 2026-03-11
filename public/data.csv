@@ -1,0 +1,121 @@
+PRÓ-REITORIA,SETORES,PROCESSOS,2021,2022,2023,2024,2025
+XXXXX,DIRPE,Mapeados,0,3,3,3,3
+PRPPG,DIRPE,Existentes,14,14,14,14,14
+PRPPG,DIRPOS,Mapeados,2,11,12,16,20
+PRPPG,DIRPOS,Existentes,19,19,19,19,20
+PRPPG,Assessoria,Mapeados,0,5,5,5,5
+PRPPG,Assessoria,Existentes,0,5,5,5,5
+PROGEP,DirAdmP,Mapeados,0,0,0,0,0
+PROGEP,DirAdmP,Existentes,0,1,1,1,1
+PROGEP,DLN,Mapeados,0,1,2,2,2
+PROGEP,DLN,Existentes,0,10,11,11,11
+PROGEP,DIPAG,Mapeados,1,6,7,8,9
+PROGEP,DIPAG,Existentes,9,9,9,9,9
+PROGEP,DCAD,Mapeados,0,2,3,3,3
+PROGEP,DCAD,Existentes,0,10,11,11,11
+PROGEP,DApP,Mapeados,0,0,6,6,6
+PROGEP,DApP,Existentes,0,14,15,15,15
+PROGEP,DArquivo ,Mapeados,0,0,0,0,0
+PROGEP,DArquivo ,Existentes,0,3,3,3,3
+PROGEP,DASA,Mapeados,0,1,1,1,1
+PROGEP,DASA,Existentes,0,10,10,10,10
+PROGEP,DCD,Mapeados,0,0,2,2,9
+PROGEP,DCD,Existentes,8,9,9,9,9
+PROGEP,DGFT,Mapeados,0,0,6,11,11
+PROGEP,DGFT,Existentes,0,0,8,11,11
+PROGEP,DSCV,Mapeados,0,3,0,0,0
+PROGEP,DSCV,Existentes,0,5,5,5,5
+PROGEP,NPAA,Mapeados,0,0,0,0,0
+PROGEP,NPAA,Existentes,0,0,0,0,0
+PROGEP,Assessoria PROGEP,Mapeados,0,1,1,1,1
+PROGEP,Assessoria PROGEP,Existentes,0,2,2,2,2
+PROGRAD,DRCA/DG0TO,Mapeados,0,0,0,0,0
+PROGRAD,DRCA/DG0TO,Existentes,1,1,1,1,1
+PROGRAD,DDLA,Mapeados,0,1,7,7,7
+PROGRAD,DDLA,Existentes,6,6,7,7,7
+PROGRAD,DMAA,Mapeados,0,0,3,3,3
+PROGRAD,DMAA,Existentes,14,14,14,14,14
+PROGRAD,DERD,Mapeados,0,0,2,2,2
+PROGRAD,DERD,Existentes,6,6,6,6,6
+PROGRAD,DAP ,Mapeados,0,1,5,5,5
+PROGRAD,DAP ,Existentes,7,7,7,7,7
+PROGRAD,DAA,Mapeados,0,0,2,2,2
+PROGRAD,DAA,Existentes,11,11,11,11,11
+PROGRAD,Secretaria,Mapeados,0,2,2,2,2
+PROGRAD,Secretaria,Existentes,0,2,2,2,2
+PROGRAD,COPESE,Mapeados,0,0,0,0,0
+PROGRAD,COPESE,Existentes,0,2,6,6,6
+PROGRAD,AVAEX,Mapeados,0,2,4,4,4
+PROGRAD,AVAEX,Existentes,0,4,4,4,4
+PROACE,DAE e NACI,Mapeados,0,4,8,8,8
+PROACE,DAE e NACI,Existentes,0,12,12,12,12
+PROPLAN,DGI,Mapeados,4,11,11,11,11
+PROPLAN,DGI,Existentes,11,11,11,11,11
+PROPLAN,EP,Mapeados,4,4,4,4,4
+PROPLAN,EP,Existentes,4,4,4,4,4
+PROPLAN,DORC,Mapeados,0,6,10,13,14
+PROPLAN,DORC,Existentes,0,10,10,13,14
+PROPLAN,DCF,Mapeados,0,0,0,0,0
+PROPLAN,DCF,Existentes,0,13,13,13,13
+PROPLAN,DIPLAC,Mapeados,0,2,3,3,3
+PROPLAN,DIPLAC,Existentes,0,3,3,3,3
+PROAD,DA,Mapeados,0,0,0,0,0
+PROAD,DA,Existentes,0,18,18,18,18
+PROAD,DILOG,Mapeados,0,3,3,3,3
+PROAD,DILOG,Existentes,0,3,3,3,3
+PROAD,DContrat,Mapeados,0,5,5,5,5
+PROAD,DContrat,Existentes,0,5,5,5,5
+PROAD,DComp,Mapeados,0,3,3,3,3
+PROAD,DComp,Existentes,0,3,3,3,3
+PROAD,DLicit,Mapeados,0,18,18,18,18
+PROAD,DLicit,Existentes,0,18,18,18,18
+PROAD,DINFRA,Mapeados,0,0,2,3,4
+PROAD,DINFRA,Existentes,0,3,3,3,4
+PROAD,DPM,Mapeados,0,0,0,1,1
+PROAD,DPM,Existentes,0,15,15,15,15
+PROEXC,DEX / DIC,Mapeados,0,0,1,1,1
+PROEXC,DEX / DIC,Existentes,0,7,7,7,7
+REITORIA,DICOM,Mapeados,1,7,7,8,8
+REITORIA,DICOM,Existentes,10,10,10,10,10
+REITORIA,DCP,Mapeados,5,6,6,6,6
+REITORIA,DCP,Existentes,7,6,6,6,6
+REITORIA,CITec,Mapeados,0,4,4,6,6
+REITORIA,CITec,Existentes,4,6,11,11,11
+REITORIA,SISBI,Mapeados,5,9,10,10,10
+REITORIA,SISBI,Existentes,21,26,26,26,26
+REITORIA,AMA,Mapeados,1,2,2,2,2
+REITORIA,AMA,Existentes,5,5,5,5,5
+REITORIA,LAI e SIC,Mapeados,0,0,0,0,0
+REITORIA,LAI e SIC,Existentes,0,1,1,1,1
+REITORIA,SEC CONSELHOS,Mapeados,4,5,5,5,5
+REITORIA,SEC CONSELHOS,Existentes,5,5,5,5,5
+REITORIA,CE,Mapeados,1,3,3,3,3
+REITORIA,CE,Existentes,5,5,5,5,5
+REITORIA,CEP,Mapeados,0,3,4,4,4
+REITORIA,CEP,Existentes,3,4,4,4,4
+REITORIA,CEUA,Mapeados,0,0,0,1,1
+REITORIA,CEUA,Existentes,6,6,6,6,6
+REITORIA,CIS,Mapeados,1,1,1,1,1
+REITORIA,CIS,Existentes,1,1,1,1,1
+REITORIA,AAEI,Mapeados,0,0,0,0,1
+REITORIA,AAEI,Existentes,2,2,2,2,2
+REITORIA,CPPD,Mapeados,6,7,7,7,7
+REITORIA,CPPD,Existentes,7,7,7,7,7
+REITORIA,DTI,Mapeados,0,7,8,8,9
+REITORIA,DTI,Existentes,7,8,8,8,9
+REITORIA,Ouvidoria,Mapeados,0,3,5,5,5
+REITORIA,Ouvidoria,Existentes,0,6,6,6,6
+REITORIA,Gabinete da Reitoria,Mapeados,0,4,6,6,6
+REITORIA,Gabinete da Reitoria,Existentes,0,5,6,6,6
+REITORIA,DEAD,Mapeados,0,0,1,1,1
+REITORIA,DEAD,Existentes,0,3,3,3,3
+REITORIA,DRI e Nucli,Mapeados,0,10,10,10,10
+REITORIA,DRI e Nucli,Existentes,0,16,16,16,16
+REITORIA,DPS,Mapeados,0,2,2,2,2
+REITORIA,DPS,Existentes,0,2,2,2,2
+REITORIA,Corregedoria Seccional (CS),Mapeados,0,0,0,0,0
+REITORIA,Corregedoria Seccional (CS),Existentes,0,13,13,13,13
+REITORIA,SUPERAGRO,Mapeados,0,0,0,0,0
+REITORIA,SUPERAGRO,Existentes,0,5,6,6,6
+REITORIA,SECOPE,Mapeados,0,0,0,0,0
+REITORIA,SECOPE,Existentes,0,0,0,0,0
