@@ -8,19 +8,22 @@ export interface ProcessRecord {
   quantidade: number;
 }
 
-export interface FetchDataResponse {
+export interface ProcessData {
   records: ProcessRecord[];
-  lastUpdated: string | null;
+  lastUpdated: string;
 }
 
-export const fetchData = async (): Promise<FetchDataResponse> => {
+export const fetchData = async (): Promise<ProcessData> => {
   // In the future, this can be changed to a local CSV file path like '/data.csv'
   const url = '/data.csv';
   
   try {
     const response = await fetch(url);
-    const lastUpdated = response.headers.get('X-Last-Updated');
     const csvText = await response.text();
+    
+    // Try to get the last modified date from the response headers
+    const lastModified = response.headers.get('last-modified');
+    const lastUpdated = lastModified ? new Date(lastModified).toISOString() : new Date().toISOString();
     
     return new Promise((resolve, reject) => {
       Papa.parse(csvText, {
@@ -52,6 +55,6 @@ export const fetchData = async (): Promise<FetchDataResponse> => {
     });
   } catch (error) {
     console.error('Error fetching data:', error);
-    return { records: [], lastUpdated: null };
+    return { records: [], lastUpdated: new Date().toISOString() };
   }
 };

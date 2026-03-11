@@ -32,8 +32,8 @@ export default function Dashboard() {
 
   useEffect(() => {
     fetchData().then((res) => {
-      setData(res.records);
-      setLastUpdated(res.lastUpdated);
+      setData(res.records || []);
+      setLastUpdated(res.lastUpdated || null);
       setLoading(false);
     });
   }, []);
