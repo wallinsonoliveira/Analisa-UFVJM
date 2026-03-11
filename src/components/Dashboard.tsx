@@ -257,7 +257,7 @@ export default function Dashboard() {
           <CheckCircle size={20} className="text-[#22c55e]" />
           <span className="font-medium text-sm">
             {lastUpdated 
-              ? `Atualizado em ${new Date(lastUpdated).toLocaleDateString('pt-BR')} ${new Date(lastUpdated).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}` 
+              ? `Atualizado em ${new Date(lastUpdated).toLocaleDateString('pt-BR')} e ${new Date(lastUpdated).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}` 
               : 'Base de dados carregada com sucesso'}
           </span>
         </div>
